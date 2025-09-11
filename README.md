@@ -17,7 +17,7 @@ Passionate about building **Discord bots**, crafting **web apps**, and improving
 
 ### 📜 About Me
 - 🥈 **High-level experience in programming**
-- 🌱 **4 years experience with `Discord.js`**
+- 🌱 **5 years experience with `Discord.js`**
 - 🤖 **Specialized in creating full-build Discord bots**
 - 📖 **Certificates:** [HTML](https://i.imgur.com/If41uGT.jpeg) | [JavaScript](https://i.imgur.com/XjzfCK5.jpeg)
 - 🏆 **2024 Goal:** Contribute to more open-source projects & upgrade my [Vampire Bot](https://discord.com/oauth2/authorize?client_id=1204160509671116860)
