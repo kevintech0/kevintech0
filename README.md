@@ -1,59 +1,152 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0aa4db,100:7c3aed&text=Kevin%20Nabil&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Font-End%20Developer%20•%20Discord%20Bots%20Developer&descAlignY=60" />
+</p>
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Discord+Bots+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
-
-### 🧛 Kevin Nabil | Vampire Kevin  
-**18 y/o Developer from Egypt 🇪🇬**  
-Passionate about building **Discord bots**, crafting **web apps**, and improving my coding skills every day.  
-
----
-
-### 🌐 Social Media
-[![Discord](https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/917579853446926356)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vampirekevin)
-
----
-
-### 📜 About Me
-- 🥈 **High-level experience in programming**
-- 🌱 **5 years experience with `Discord.js`**
-- 🤖 **Specialized in creating full-build Discord bots**
-- 📖 **Certificates:** [HTML](https://i.imgur.com/If41uGT.jpeg) | [JavaScript](https://i.imgur.com/XjzfCK5.jpeg)
-- 🏆 **2024 Goal:** Contribute to more open-source projects & upgrade my [Vampire Bot](https://discord.com/oauth2/authorize?client_id=1204160509671116860)
+<p align="center">
+  <a href="https://kevinnabil.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0aa4db?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/917579853446926356">
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <p align="center">
+  <a href="https://youtube.com/@kevotech0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://facebook.com/kevotech0"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://tiktok.com/@kevotech0"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🎭 Languages & Tools
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8111f9?logo=Bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-7289d9.svg?logo=discord&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white)
+## 🚀 Quick Info
+
+```yaml
+Name: Kevin Nabil
+Location: Egypt 🇪🇬
+Role: Font-End Developer
+Speciality: Web Applications & Discord Bots
+Languages:
+  - JavaScript
+  - TypeScript
+
+Frameworks:
+  - React
+  - Node.js
+
+Databases:
+  - MongoDB
+  - Prisma
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+  - Discord.js
+  - Eris
+
+Current Goal:
+  Build scalable products used by real users
+```
 
 ---
 
-### 💻 Software & Applications
-![Photoshop](https://img.shields.io/badge/Photoshop-071D34?logo=adobe-photoshop&logoColor=54A7F8)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS-302E31?logo=obs-studio&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-F36C21?logo=microsoftpowerpoint&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+## 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### Other
+
+<p>
+<img src="https://skillicons.dev/icons?i=discord,bots" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VampireKevin&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VampireKevin&layout=compact&theme=radical)
+## 🎯 Current Focus
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VampireKevin&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VampireKevin&theme=radical)
+* 🔭 Building Full-Stack Applications
+* ⚡ Improving Performance & Scalability
+* 🌱 Learning Better Software Architecture
+* 🤝 Open Source Contributions
+* ☁️ Deployment & Cloud Technologies
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kevintech0&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevintech0&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintech0&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kevintech0&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Main Projects
+
+| Project              | Description                               |
+| -------------------- | ----------------------------------------- |
+| 🌐 Portfolio Website | Personal portfolio showcasing my work     |
+| 🤖 Discord Bots      | Advanced bots built using Discord.js      |
+| ⚡ Full Stack Apps    | Modern applications using React & Node.js |
+
+---
+
+## 🧠 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+</p>
 
 ---
 
 ### 🎯 Discord Profile
-![Discord](https://discord.c99.nl/widget/theme-2/917579853446926356.png)
 
-</div>
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-2/917579853446926356.png"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kevintech0&label=Profile%20Views&color=0aa4db&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/kevintech0?label=Followers&style=for-the-badge&color=7c3aed"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa4db,100:7c3aed&height=150&section=footer" />
+</p>
