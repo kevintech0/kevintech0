@@ -81,18 +81,9 @@ Current Goal:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kevintech0&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevintech0&show_icons=true&hide_border=true&theme=tokyonight" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintech0&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
