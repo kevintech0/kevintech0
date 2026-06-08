@@ -84,10 +84,6 @@ Current Goal:
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintech0&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=kevintech0&theme=tokyonight&hide_border=true" />
 </p>
 
